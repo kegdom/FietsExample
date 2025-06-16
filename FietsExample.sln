@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FietsExample", "FietsExample\FietsExample.csproj", "{305F1733-525F-4F70-B2BA-B52F1957F747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FietsExampleTest", "FietsExampleTest\FietsExampleTest.csproj", "{8D8138C3-A2B8-4A66-BE99-D541A09E0261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{305F1733-525F-4F70-B2BA-B52F1957F747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305F1733-525F-4F70-B2BA-B52F1957F747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305F1733-525F-4F70-B2BA-B52F1957F747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305F1733-525F-4F70-B2BA-B52F1957F747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D8138C3-A2B8-4A66-BE99-D541A09E0261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8138C3-A2B8-4A66-BE99-D541A09E0261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8138C3-A2B8-4A66-BE99-D541A09E0261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8138C3-A2B8-4A66-BE99-D541A09E0261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
