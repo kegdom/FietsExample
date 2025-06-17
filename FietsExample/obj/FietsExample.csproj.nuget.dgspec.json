@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\koenv\\RiderProjects\\FietsExample\\FietsExample\\FietsExample.csproj": {}
+    "C:\\Users\\koenv\\Desktop\\FietsExample\\FietsExample\\FietsExample\\FietsExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\koenv\\RiderProjects\\FietsExample\\FietsExample\\FietsExample.csproj": {
+    "C:\\Users\\koenv\\Desktop\\FietsExample\\FietsExample\\FietsExample\\FietsExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\koenv\\RiderProjects\\FietsExample\\FietsExample\\FietsExample.csproj",
+        "projectUniqueName": "C:\\Users\\koenv\\Desktop\\FietsExample\\FietsExample\\FietsExample\\FietsExample.csproj",
         "projectName": "FietsExample",
-        "projectPath": "C:\\Users\\koenv\\RiderProjects\\FietsExample\\FietsExample\\FietsExample.csproj",
+        "projectPath": "C:\\Users\\koenv\\Desktop\\FietsExample\\FietsExample\\FietsExample\\FietsExample.csproj",
         "packagesPath": "C:\\Users\\koenv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\koenv\\RiderProjects\\FietsExample\\FietsExample\\obj\\",
+        "outputPath": "C:\\Users\\koenv\\Desktop\\FietsExample\\FietsExample\\FietsExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\koenv\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -22,6 +22,10 @@ public abstract class Product : IArtikelMetKostprijs
     {
         return BerekenPrijs() - BerekenKostprijs();
     }
+    public override string ToString()
+    {
+        return $"[{Nummer}] {Naam}";
+    }
 
     public abstract float BerekenKostprijs();
 

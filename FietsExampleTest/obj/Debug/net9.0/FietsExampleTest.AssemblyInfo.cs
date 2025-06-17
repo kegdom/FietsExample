@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FietsExampleTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f216d1c228599897a6a859f73291651ea283a3ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("FietsExampleTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FietsExampleTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

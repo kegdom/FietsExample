@@ -20,4 +20,23 @@ public class Bestelling
         }
         return totaal;
     }
+    
+    public override string ToString()
+    {
+        var sb = new System.Text.StringBuilder();
+        sb.AppendLine($"Bestelling #{Nummer}");
+        sb.AppendLine(new string('=', 20));
+        foreach (var regel in Regels)
+        {
+            sb.AppendLine(regel.ToString());
+        }
+        sb.AppendLine(new string('-', 20));
+        sb.AppendLine($"Totaal: €{BerekenTotaalPrijs():F2}");
+        return sb.ToString();
+    }
+
+    public void PrintBestelling()
+    {
+        Console.WriteLine(this.ToString());
+    }
 }

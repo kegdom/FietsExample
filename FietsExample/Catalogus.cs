@@ -2,7 +2,7 @@
 
 public class Catalogus
 {
-    private List<Product> products = new List<Product>();
+    private static List<Product> products = new List<Product>();
     
     private static Catalogus? _instance;
 
@@ -60,12 +60,12 @@ public class Catalogus
         products.Add(gps);
     }
     
-    public void PrintCatalogus()
+    public static void PrintCatalogus()
     {
         //print catalogus
         foreach (var product in products)
         {
-
+            Console.WriteLine(product);
         }
     }
 
